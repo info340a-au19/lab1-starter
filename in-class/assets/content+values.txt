@@ -1,0 +1,19 @@
+Resources:
+    - Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+    - Hover: https://www.w3schools.com/cssref/sel_hover.asp
+
+Nav options:	
+- Host a home
+- Host an experience
+- Help
+- Sign up
+- Log in
+
+Title:
+- Book unique places to stay and things to do.
+
+Form text:
+- WHERE
+- CHECK-IN
+- CHECKOUT
+- GUESTS

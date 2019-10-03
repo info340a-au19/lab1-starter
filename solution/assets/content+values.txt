@@ -1,0 +1,15 @@
+Nav options:	
+- Host a home
+- Host an experience
+- Help
+- Sign up
+- Log in
+
+Title:
+- Book unique places to stay and things to do.
+
+Form text:
+- WHERE
+- CHECK-IN
+- CHECKOUT
+- GUESTS
