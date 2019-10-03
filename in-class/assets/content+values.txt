@@ -17,3 +17,14 @@ Form text:
 - CHECK-IN
 - CHECKOUT
 - GUESTS
+
+Values:
+- Logo:
+    - Height x Width: 34px
+- Button:
+    - Color: rgb(255, 90, 95)
+- Header (with background picture):
+    - Height: 680px
+- Booking panel:
+    - Height: 420px
+    - Width: 377px
